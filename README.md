@@ -2,7 +2,7 @@
   Welcome to Natan's GitHub! 👋
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=auroradream04&label=Profile%20views&color=0e75b6&style=flat" alt="auroradream04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=natan497&label=Profile%20views&color=0e75b6&style=flat" alt="auroradream04" /> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
