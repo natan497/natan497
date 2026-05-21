@@ -7,7 +7,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  
+<a href="">
   <img alt="Natan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=natan497&theme=dark&hide_border=false"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
