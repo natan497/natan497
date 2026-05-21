@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Michel's GitHub! 👋
+  Welcome to Natan's GitHub! 👋
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auroradream04&label=Profile%20views&color=0e75b6&style=flat" alt="auroradream04" /> </p>
@@ -8,21 +8,21 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Michel's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=miltan312&theme=dark&hide_border=false"/>
+  <img alt="Natan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=natan497&theme=dark&hide_border=false"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Michel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=miltan312&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Natan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=natan497&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a> -->
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Michel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltan312&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Natan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan497&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a> -->
 </p>
 
 #### :sparkles: I am a Cloud/AI Engineer.
-![I am a Cloud/AI Engineer.](https://github.com/miltan312/miltan312/blob/master/background.jpg)
+![I am a Cloud/AI Engineer.](https://github.com/natan497/natan497/blob/master/background.jpg)
 
 ### 🛠 &nbsp;[Tech Stack](https://gist.github.com/kimjisub/360ea6fc43b82baaf7193175fd12d2f7)
 
@@ -68,6 +68,6 @@
 
 - 🔭 I’m currently working as a remote Cloud/AI Engineer.
 - 🌱 I’m currently learning Blockchain.
-- 📫 How to reach me: michel.tan0312@gmail.com
+- 📫 How to reach me: Natan.tan42@gmail.com
 - ⚡ Fun fact: I'm flexible in working hours.
 
