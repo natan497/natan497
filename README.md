@@ -69,6 +69,5 @@
 
 - 🔭 I’m currently working as a remote Cloud/AI Engineer.
 - 🌱 I’m currently learning Blockchain.
-- 📫 How to reach me: Natan.tan42@gmail.com
 - ⚡ Fun fact: I'm flexible in working hours.
 
