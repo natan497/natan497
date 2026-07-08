@@ -70,8 +70,9 @@
 
 ## 📫 Connect with Me
 
-- 🔗 GitHub: [github.com/natan497](https://github.com/natan497)
-- 🏢 Company: [@Youphrates](https://github.com/Youphrates)
+- 📧 Email:  [knatan497@gmail.com](mailto:knatan497@gmail.com)
+- 🔗 Medium: [natan497.medium.com](https://natan497.medium.com/)
+- 🏢 Group:  [@Youphrates](https://github.com/Youphrates)
 
 ---
 
