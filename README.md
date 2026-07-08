@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Natan
+# 👋 Hi
 
 > **"Try everything!"** — that's my motto, and it shows in my work.
 
